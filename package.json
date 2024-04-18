@@ -1,0 +1,6 @@
+{
+  "name": "email-template",
+  "scripts": {
+    "dev": "http-server ."
+  }
+}
